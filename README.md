@@ -93,5 +93,12 @@ The project uses two main tables:
 ---
 
 ## 📜 License
-This project is for **educational purposes**.  
 Data courtesy of *Our World in Data*.
+
+---
+
+## Contact
+For collaboration, questions, or feedbacks:
+alexanderotto17@gmail.com
+LinkedIn Profile https://www.linkedin.com/in/alexander-otto-bende/
+>”Data is the new oil and this project drills into the automotive market to refine insights that drive smarter decisions.”
